@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="XamlAnimationWorkshop.Uwp.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:XamlAnimationWorkshop.Uwp"
+    RequestedTheme="Light">
+
+</Application>
